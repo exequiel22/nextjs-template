@@ -18,6 +18,11 @@ NextJs project template
 ```bash
 npm install
 ```
+### Install husky
+```bash
+npm run prepare
+```
+
 ### Run Development Server
 ```bash
 npm run dev
