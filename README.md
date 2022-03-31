@@ -9,11 +9,19 @@ NextJs project template
 * [Docker](https://www.docker.com/) - A tool designed to make it easier to create, deploy, and run applications by using containers.
 * [Cypress](https://www.cypress.io/) - A end-to-end testing framework for web test automation
 * [Jest](https://jestjs.io/) & [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) for unit tests
+* [husky](https://typicode.github.io/husky/#/) - A tool for managing Git hooks
 * [date-fns Library](https://date-fns.org/) - Modern JavaScript date utility library
-
 
 ## Getting Started
 
+### Install Dependencies
+```bash
+npm install
+```
+### Run Development Server
+```bash
+npm run dev
+```
 
 ## Using Docker
 
@@ -22,3 +30,8 @@ NextJs project template
 1. Run your container: `docker run -p 3000:3000 nextjs-docker`.
 
 You can view your images created with `docker images`.
+
+## License
+Licensed under the MIT License, Copyright © 2022 - [ExeQuiroga](https://exequiroga.dev)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
