@@ -1,4 +1,5 @@
 /* eslint-disable global-require */
+// @ts-ignore
 describe('config', () => {
   beforeEach(() => {
     jest.resetModules();
