@@ -1,7 +1,7 @@
 # nextjs-template
 NextJs project template
 
-## Features
+## Features & Libraries
 
 * [React](https://reactjs.org/) v18
 * [TypeScript](https://typescriptlang.org) - Superset of JavaScript which primarily provides optional static typing, classes and interfaces.
@@ -11,6 +11,8 @@ NextJs project template
 * [Jest](https://jestjs.io/) & [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) for unit tests
 * [husky](https://typicode.github.io/husky/#/) - A tool for managing Git hooks
 * [date-fns Library](https://date-fns.org/) - Modern JavaScript date utility library
+* [Axios](https://axios-http.com/docs/intro) - A Promise based HTTP client for the browser and node.js
+* [Falso](https://ngneat.github.io/falso/) - A library for mocking and Fake data
 
 ## Getting Started
 
