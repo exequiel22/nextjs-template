@@ -17,6 +17,7 @@ const customJestConfig = {
   coveragePathIgnorePatterns: ['<rootDir>/cypress/'],
   collectCoverageFrom: [
     'components/**/*.{js,jsx,ts,tsx}',
+    'config/**/*.{js,jsx,ts,tsx}',
     '!**/*.d.ts',
     '!**/node_modules/**',
   ],
